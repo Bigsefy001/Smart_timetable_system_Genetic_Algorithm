@@ -1,2 +1,5 @@
 # Smart_timetable_system_Genetic_Algorithm
 A web-based system that automates school timetable generation by resolving conflicts and optimizing schedules. Features include role-based dashboards, real-time updates, and customizable constraints. Built for scalability and efficiency.
+This project is an intelligent academic scheduling platform developed using Genetic Algorithms to generate conflict-free, optimized timetables for educational institutions. Designed for the School of Computing and Informatics at Albukhary International University, it addresses scheduling challenges like room allocation, course conflicts, and lecturer availability. Features include a role-based dashboard (Admin, Lecturer, Student), real-time notifications, and manual adjustment tools—all built with a layered architecture for scalability and maintainability.
+
+![image alt](https://github.com/Bigsefy001/Smart_timetable_system_Genetic_Algorithm/blob/70438bd50a8fdbc13108932abefd78fe38331448/Genetic%20algorithm%20picture.jpeg)
